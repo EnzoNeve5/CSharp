@@ -1,0 +1,16 @@
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\bin\Debug\net8.0-windows\Meu_primeiro_programa.exe
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\bin\Debug\net8.0-windows\Meu_primeiro_programa.deps.json
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\bin\Debug\net8.0-windows\Meu_primeiro_programa.runtimeconfig.json
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\bin\Debug\net8.0-windows\Meu_primeiro_programa.dll
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\bin\Debug\net8.0-windows\Meu_primeiro_programa.pdb
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\obj\Debug\net8.0-windows\Meu_primeiro_programa.Form1.resources
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\obj\Debug\net8.0-windows\Meu_primeiro_programa.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\obj\Debug\net8.0-windows\Meu_primeiro_programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\obj\Debug\net8.0-windows\Meu_primeiro_programa.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\obj\Debug\net8.0-windows\Meu_primeiro_programa.AssemblyInfo.cs
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\obj\Debug\net8.0-windows\Meu_primeiro_programa.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\obj\Debug\net8.0-windows\Meu_primeiro_programa.dll
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\obj\Debug\net8.0-windows\refint\Meu_primeiro_programa.dll
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\obj\Debug\net8.0-windows\Meu_primeiro_programa.pdb
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\obj\Debug\net8.0-windows\Meu_primeiro_programa.genruntimeconfig.cache
+C:\Users\anton\source\repos\Meu_1_programa\Meu_primeiro_programa\obj\Debug\net8.0-windows\ref\Meu_primeiro_programa.dll
