@@ -1,0 +1,17 @@
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\bin\Debug\net8.0-windows\meu_3_programa.exe
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\bin\Debug\net8.0-windows\meu_3_programa.deps.json
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\bin\Debug\net8.0-windows\meu_3_programa.runtimeconfig.json
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\bin\Debug\net8.0-windows\meu_3_programa.dll
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\bin\Debug\net8.0-windows\meu_3_programa.pdb
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\obj\Debug\net8.0-windows\meu_3_programa.Form1.resources
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\obj\Debug\net8.0-windows\meu_3_programa.Properties.Resources.resources
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\obj\Debug\net8.0-windows\meu_3_programa.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\obj\Debug\net8.0-windows\meu_3_programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\obj\Debug\net8.0-windows\meu_3_programa.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\obj\Debug\net8.0-windows\meu_3_programa.AssemblyInfo.cs
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\obj\Debug\net8.0-windows\meu_3_programa.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\obj\Debug\net8.0-windows\meu_3_programa.dll
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\obj\Debug\net8.0-windows\refint\meu_3_programa.dll
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\obj\Debug\net8.0-windows\meu_3_programa.pdb
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\obj\Debug\net8.0-windows\meu_3_programa.genruntimeconfig.cache
+C:\Users\anton\source\repos\meu_3_programa\meu_3_programa\obj\Debug\net8.0-windows\ref\meu_3_programa.dll
