@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\MeuSegundoProjeto\bin\Debug\net9.0\MeuSegundoProjeto.exe
+C:\Users\anton\source\repos\MeuSegundoProjeto\bin\Debug\net9.0\MeuSegundoProjeto.deps.json
+C:\Users\anton\source\repos\MeuSegundoProjeto\bin\Debug\net9.0\MeuSegundoProjeto.runtimeconfig.json
+C:\Users\anton\source\repos\MeuSegundoProjeto\bin\Debug\net9.0\MeuSegundoProjeto.dll
+C:\Users\anton\source\repos\MeuSegundoProjeto\bin\Debug\net9.0\MeuSegundoProjeto.pdb
+C:\Users\anton\source\repos\MeuSegundoProjeto\obj\Debug\net9.0\MeuSegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\source\repos\MeuSegundoProjeto\obj\Debug\net9.0\MeuSegundoProjeto.AssemblyInfoInputs.cache
+C:\Users\anton\source\repos\MeuSegundoProjeto\obj\Debug\net9.0\MeuSegundoProjeto.AssemblyInfo.cs
+C:\Users\anton\source\repos\MeuSegundoProjeto\obj\Debug\net9.0\MeuSegundoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\MeuSegundoProjeto\obj\Debug\net9.0\MeuSegundoProjeto.dll
+C:\Users\anton\source\repos\MeuSegundoProjeto\obj\Debug\net9.0\refint\MeuSegundoProjeto.dll
+C:\Users\anton\source\repos\MeuSegundoProjeto\obj\Debug\net9.0\MeuSegundoProjeto.pdb
+C:\Users\anton\source\repos\MeuSegundoProjeto\obj\Debug\net9.0\MeuSegundoProjeto.genruntimeconfig.cache
+C:\Users\anton\source\repos\MeuSegundoProjeto\obj\Debug\net9.0\ref\MeuSegundoProjeto.dll
