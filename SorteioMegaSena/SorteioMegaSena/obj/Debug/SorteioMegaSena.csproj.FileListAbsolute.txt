@@ -1,0 +1,10 @@
+C:\Users\anton\source\repos\SorteioMegaSena\SorteioMegaSena\bin\Debug\SorteioMegaSena.exe.config
+C:\Users\anton\source\repos\SorteioMegaSena\SorteioMegaSena\bin\Debug\SorteioMegaSena.exe
+C:\Users\anton\source\repos\SorteioMegaSena\SorteioMegaSena\bin\Debug\SorteioMegaSena.pdb
+C:\Users\anton\source\repos\SorteioMegaSena\SorteioMegaSena\obj\Debug\SorteioMegaSena.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\SorteioMegaSena\SorteioMegaSena\obj\Debug\SorteioMegaSena.Form1.resources
+C:\Users\anton\source\repos\SorteioMegaSena\SorteioMegaSena\obj\Debug\SorteioMegaSena.Properties.Resources.resources
+C:\Users\anton\source\repos\SorteioMegaSena\SorteioMegaSena\obj\Debug\SorteioMegaSena.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\SorteioMegaSena\SorteioMegaSena\obj\Debug\SorteioMegaSena.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\SorteioMegaSena\SorteioMegaSena\obj\Debug\SorteioMegaSena.exe
+C:\Users\anton\source\repos\SorteioMegaSena\SorteioMegaSena\obj\Debug\SorteioMegaSena.pdb
